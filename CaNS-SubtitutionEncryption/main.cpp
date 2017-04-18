@@ -119,7 +119,7 @@ int main()
 {
 	// > Variables
 	string msg;
-	printf("Please enter the decrypted message: ");
+	printf("Please enter the message: ");
 	getline(cin, msg);
 
 	// > Initialise
